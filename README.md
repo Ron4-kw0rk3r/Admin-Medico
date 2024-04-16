@@ -3,14 +3,14 @@
     
 </h3>
 
-<p> Fecha : 16/04/2024 </p>
-<br/>
+<p> Registro : 16/04/2024 </p>
+
 
 ## Administracion Medica
 <p>
-    
-    Este software en Java es un sistema administrativo médico diseñado para gestionar eficientemente las tareas administrativas de un centro médico. Permite llevar un registro detallado de pacientes, citas médicas, historiales clínicos, tratamientos y medicamentos recetados, facilitando la organización y la atención médica de manera efectiva. Además, ofrece funcionalidades avanzadas como generación de informes, integración con sistemas de facturación y seguimiento de la disponibilidad de camas en el hospital.
-
+    <spam>    
+        Este software en Java es un sistema administrativo médico diseñado para gestionar eficientemente las tareas administrativas de un centro médico. Permite llevar un registro detallado de pacientes, citas médicas, historiales clínicos, tratamientos y medicamentos recetados, facilitando la organización y la atención médica de manera efectiva. Además, ofrece funcionalidades avanzadas como generación de informes, integración con sistemas de facturación y seguimiento de la disponibilidad de camas en el hospital.
+    <spam>
 </p>
 
 ## Herramientas Utilizadas
