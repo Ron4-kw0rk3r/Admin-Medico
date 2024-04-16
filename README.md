@@ -26,5 +26,9 @@
 
 ## Ejecucion del Software
 
+![Ejecucion_Login](https://github.com/Ron4-kw0rk3r/Admin-Medico/blob/master/DB/ejec1.png){width=60%}
+
+![Ejecucion2_Registro](https://github.com/Ron4-kw0rk3r/Admin-Medico/blob/master/DB/ejec2.png){width=60%}
 
 
+![Principal](https://github.com/Ron4-kw0rk3r/Admin-Medico/blob/master/DB/sistem.png){width=60%}
