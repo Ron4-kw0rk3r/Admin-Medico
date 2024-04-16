@@ -1,0 +1,6 @@
+
+correr: cmd o powershell 
+
+
+
+ java -jar ui-dashboard-007.jar

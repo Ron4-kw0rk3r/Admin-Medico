@@ -1,7 +1,30 @@
-# java-ui-dashboard-007
-Date : 13/11/2021<br/>
-How to coding in java
-visit my youtube : https://www.youtube.com/c/HelloWorld-Raven/featured
-<br/><br/>
+<h3 align="center">
+    # Sistema Administrativo Medico
+    Date : 16/04/2024<br/>
+</h3>
 
-![2021-11-13_171345](https://user-images.githubusercontent.com/58245926/141642458-784c3e7a-7fc1-4953-b031-b360afe5eedc.png)
+<p>
+    # Sistema Administrativo Medico
+    Este software en Java es un sistema administrativo médico diseñado para gestionar eficientemente las tareas administrativas de un centro médico. Permite llevar un registro detallado de pacientes, citas médicas, historiales clínicos, tratamientos y medicamentos recetados, facilitando la organización y la atención médica de manera efectiva. Además, ofrece funcionalidades avanzadas como generación de informes, integración con sistemas de facturación y seguimiento de la disponibilidad de camas en el hospital.
+
+</p>
+
+## Herramientas Utilizadas
+![Javascript](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+
+## Programacion 
+![IDE](https://www.liblogo.com/img-logo/max/ne6903n085-netbeans-logo-netbeans-logo-png-transparent-amp-svg-vector-freebie-supply.png)
+
+
+## Base de Datos:
+
+<p> Modelo de Base de  Datos </p>
+![Modelo E/R](https://github.com/Ron4-kw0rk3r/Admin-Medico/blob/master/DB/E-R-Modelo.png){ width=60% }
+
+## Ejecucion del Software
+
+
+
