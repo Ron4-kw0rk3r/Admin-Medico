@@ -37,3 +37,14 @@
 
 
 ![Principal](https://github.com/Ron4-kw0rk3r/Admin-Medico/blob/master/DB/sistem.png){ width=60% }
+
+
+## Proposito de Idea a Mejorar
+
+![NuevaIdea](https://github.com/Ron4-kw0rk3r/Admin-Medico/blob/master/DB/photo_2024-04-16_23-06-14.jpg) 
+
+## complemento
+
+![Objetivo](https://github.com/Ron4-kw0rk3r/Admin-Medico/blob/master/DB/photo_2024-04-16_23-06-17.jpg)
+
+
